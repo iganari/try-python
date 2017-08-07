@@ -3,5 +3,5 @@
 ### sleep関数
 
 ```
-$ python func_sleep.py
+$ python func-sleep.py
 ```
