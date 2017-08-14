@@ -1,4 +1,4 @@
-FROM python:2.7.13-wheezy
+FROM python:3.6.2-stretch
 MAINTAINER iganari
 
 COPY _bashrc /root/.bashrc
