@@ -1,2 +1,2 @@
 x = input("Please Enter Number: ")
-print("")
+print(x)
