@@ -18,4 +18,4 @@ alias cp='cp -i'
 alias mv='mv -i'
 
 # my alias
-alias py3='python'
+alias p3='python'
