@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
 print("Please tell me number of trials")
 input_lines = int(input())
 print("OK. Let's experiment with", input_lines, "times .", )
